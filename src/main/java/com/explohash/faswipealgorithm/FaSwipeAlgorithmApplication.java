@@ -1,4 +1,4 @@
-package com.explohash.faswipealgorithm.faswipealgorithm;
+package com.explohash.faswipealgorithm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
